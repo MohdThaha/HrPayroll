@@ -27,5 +27,6 @@ dist-ssr
 *.xlsx
 
 *.png
+*.pdf
 
 .vscode
